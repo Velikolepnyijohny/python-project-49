@@ -33,3 +33,5 @@ ascinema brain-even:
 	https://asciinema.org/a/bjiLTQ2TbG2BMyJvowMWElTse
 
 
+ascinema brain-calc:
+	https://asciinema.org/a/c0ARJpN69RfnIfeAu4gO8MXO1
