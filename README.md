@@ -35,3 +35,12 @@ ascinema brain-even:
 
 ascinema brain-calc:
 	https://asciinema.org/a/c0ARJpN69RfnIfeAu4gO8MXO1
+
+ascinema brain-gcd:
+	https://asciinema.org/a/yBphjPKFaRVZdnd8MCSxlGT3u
+
+ascinema brain-progression:
+	https://asciinema.org/a/ST8kJFvM0bpI47eWVT5eIDhXW
+
+ascinema brain-prime:
+	https://asciinema.org/a/0GcA78eW97mVFWa7N8PjXH9pw
