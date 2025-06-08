@@ -29,6 +29,41 @@
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Velikolepnyijohny_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Velikolepnyijohny_python-project-49)
 
 
+description:
+  *  5 console math games
+
+
+
+
+requirements:
+  * Python 3.12
+  * prompt
+  * uv
+
+
+install :
+  *   git clone https://github.com/Velikolepnyijohny/python-project-49.git
+  *   pip install .
+  
+
+   brain-even  # Запуск игры "Проверка на чётность"
+    brain-calc  # Запуск игры "Калькулятор"
+    brain-gcd   # Запуск игры "НОД"
+    brain-progression # Запуск игры "Арифметическая прогрессия"
+    brain-prime # Запуск игры "Простые числа"*  
+
+
+
+
+
+
+
+
+
+
+
+
+
 ascinema brain-even:
 	https://asciinema.org/a/bjiLTQ2TbG2BMyJvowMWElTse
 
