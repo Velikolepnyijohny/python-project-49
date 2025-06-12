@@ -1,7 +1,7 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-authors = {johnykozmen}
+authors = [johnykozmen]
 description = "set for 5 math console games"
 readme = "README.md"
 requires-python = ">=3.12"
