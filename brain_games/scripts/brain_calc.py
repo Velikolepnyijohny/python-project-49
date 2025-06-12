@@ -6,5 +6,5 @@ def main():
     run_game(brain_calc.DESCRIPTION, brain_calc.generate_round)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

@@ -9,12 +9,14 @@ MAX_STEP = 5
 MIN_LENGTH = 5
 MAX_LENGTH = 10
 
+
 def generate_progression(start, step, length):
     """Generates an arithmetic progression."""
     progression = []
     for i in range(length):
         progression.append(start + i * step)
     return progression
+
 
 def generate_round():
     """Generates a question and correct answer for the progression game."""
@@ -28,8 +30,10 @@ def generate_round():
     question = " ".join(map(str, progression))
     return question, correct_answer
 
+
 def main():
     run_game(DESCRIPTION, generate_round)
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()
