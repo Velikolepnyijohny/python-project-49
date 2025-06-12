@@ -2,10 +2,10 @@ import prompt
 
 def run_game(description, generate_round):
     """Runs a brain game."""
+    print(description)
     print("Welcome to the Brain Games!")
     name = prompt.string("May I have your name? ")
     print(f"Hello, {name}!")
-    print(description)
     correct_answers_count = 0
     while correct_answers_count < 3:
         question, correct_answer = generate_round()
